@@ -1,0 +1,15 @@
+{
+  "name": "EmbedFixer",
+  "description": "Automatically rewrites TikTok and social links to working embed proxies and strips tracking params.",
+  "authors": [
+    {
+      "name": "knimmi",
+      "id": "767333937919557633"
+    }
+  ],
+  "main": "index.js",
+  "hash": "PASTE_SHA256_OF_EMBEDFIXER_INDEX_JS_HERE",
+  "vendetta": {
+    "icon": "ic_link"
+  }
+}
